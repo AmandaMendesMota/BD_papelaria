@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/DAO/DAOVendas.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/ireport/relatorioVendas.jrxml</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/model/ModelVendas.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/DAO/DAOFormaPagamento.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/DAO/DaoProdutos.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/model/ModelFormaPagamento.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/DAO/DAOProdutosVendasProdutos.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/model/ModelCliente.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/view/ViewLogin.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/model/ModelVendasProdutos.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/controller/ControllerProdutos.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/view/ViewPrincipal.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/view/ViewCliente.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/view/ViewAguarde.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/DAO/DAOUsuario.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/util/BLDatas.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/model/ModelSessaoUsuario.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/view/ViewVendas.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/view/ViewProduto.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/controller/ControllerFormaPagamento.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/conexoes/ConexaoMySql.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/DAO/DAOCliente.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/model/ModelVendasCliente.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/model/ModelUsuario.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/model/ModelProdutosVendasProdutos.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/controller/ControllerCliente.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/DAO/DAOVendasCliente.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/view/ViewUsuario.java</file>
+            <file>file:/C:/Users/amand/Desktop/ProjetoEngSoftwareI-master/ProjetoEngSoftwareI-master/Papelaria/src/DAO/DAOVendasProdutos.java</file>
+        </group>
+    </open-files>
+</project-private>
